@@ -1,0 +1,2 @@
+This program allows you to view information about holidays in different countries.
+*here will be a lot of letters*
