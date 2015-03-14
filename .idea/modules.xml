@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/holiday_llibrary.iml" filepath="$PROJECT_DIR$/holiday_llibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/holidays-mrinsky-patch.iml" filepath="$PROJECT_DIR$/holidays-mrinsky-patch.iml" />
-    </modules>
-  </component>
-</project>
